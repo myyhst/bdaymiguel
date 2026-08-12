@@ -340,7 +340,7 @@
       PERSONALIZE SOMENTE ESTES 3 CAMPOS:
     */
     const CONFIG = {
-      nome: "Miguel 13 anos",
+      nome: "Miguel",
       chavePix: "47346746805",
       codigoPix: "47346746805"
     };
