@@ -342,7 +342,7 @@
     const CONFIG = {
       nome: "SEU NOME",
       chavePix: "sua-chave@pix.com",
-      codigoPix: "COLE_AQUI_SEU_PIX_COPIA_E_COLA"
+      codigoPix: "47346746805"
     };
 
     const botaoMostrar = document.getElementById("mostrarPix");
